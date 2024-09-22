@@ -8,5 +8,3 @@ def say_hello():
 def hello():
     say_hello()
 
-if __name__ == '__main__':
-    hello()
