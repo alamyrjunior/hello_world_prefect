@@ -6,5 +6,6 @@ def say_hello():
 
 @flow(log_prints=True)
 def hello():
+    print("funcionaaaaaaaaaa")
     say_hello()
 
